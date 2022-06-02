@@ -13,7 +13,7 @@ try:
                 INSERT INTO movies values ("Bangalore days", "DulquerSalman", "Nazriya", 2014, "AnjaliMenon");
                 INSERT INTO movies values ("KGF", "Yash", "Shrinidhi Shetty", 2018, "Prashanth Neel");
                 INSERT INTO movies values ("KGF2", "Yash", "Shrinidhi Shetty", 2022, "Prashanth Neel");
-                INSERT INTO movies values ("The Prestige", "Matthew McConaughey", "Anne Hathaway", 2006, "Christopher Nolan");
+                INSERT INTO movies values ("YJHD", "RanbirKapoor", "Deepika", 2012, "Aryan");
                 INSERT INTO movies values ("Ohm Shanthi Oshana", "Nivin Pauly, "Nazriya", 2011, "Rajan");
                 INSERT INTO movies values ("Drishyam", "Mohanlal", "Menna", 2020, "JeethuJoseph");
                 INSERT INTO movies values ("Interstellar", "Christian Bale", "Scarlett Johansson", 2014, "Christopher Nolan");
